@@ -1,3 +1,4 @@
+![](https://devblogs.microsoft.com/python/wp-content/uploads/sites/12/2019/09/JustMyCodeJupyterDebug.gif)
 <h1 align="center">Hi 👋, I'm Arpit Gangwar</h1>
 <h3 align="center">A passionate Python Developer and Aspiring Data Analyst</h3>
 <img align="right" alt="Gif file" width="350" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
